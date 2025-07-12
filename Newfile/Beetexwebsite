@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Bee Textiles.NG</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <div class="logo">
+      <img src="images/bt-logo-gold.png" alt="Bee Textiles Logo" />
+      <h1>Bee Textiles.NG</h1>
+    </div>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="products.html">Products</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h2>Premium & Qualitative Materials</h2>
+    <p>Your trusted source for men lace, brocades, and luxury fabrics.</p>
+    <a href="products.html" class="btn">Shop Now</a>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Bee Textiles.NG | Call us: 08148722534</p>
+  </footer>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>About Us - Bee Textiles</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <div class="logo">
+      <img src="images/bt-logo-gold.png" alt="Bee Textiles Logo" />
+      <h1>Bee Textiles.NG</h1>
+    </div>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="products.html">Products</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="content">
+    <h2>About Us</h2>
+    <p>
+      Bee Textiles.NG is a proudly Nigerian brand that offers premium and high-quality fabrics tailored to meet the fashion needs of today’s stylish man.
+    </p>
+    <p>
+      We specialize in a rich variety of fabrics including men's lace, wool yards, cotton yards, cotton brocades, Swiss, and Filtex materials — carefully selected to reflect elegance, culture, and class.
+    </p>
+    <p>
+      Whether you’re buying in wholesale or retail, we’ve got you covered. At Bee Textiles, we don’t just sell fabric — we deliver value, style, and quality to your doorstep, nationwide.
+    </p>
+    <p>📦 Fast delivery<br>🛍️ Trusted by tailors, fashion designers & classy dressers across Nigeria.</p>
+    <p><strong>Bee Textiles.NG — Wear Quality. Live Bold.</strong></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Bee Textiles.NG | Call us: 08148722534</p>
+  </footer>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Products - Bee Textiles</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <div class="logo">
+      <img src="images/bt-logo-gold.png" alt="Bee Textiles Logo" />
+      <h1>Bee Textiles.NG</h1>
+    </div>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="products.html">Products</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="content">
+    <h2>Our Products</h2>
+    <ul>
+      <li>👔 Men's Lace</li>
+      <li>🧶 Wool Yards</li>
+      <li>👕 Cotton Yards</li>
+      <li>🧵 Cotton Brocades</li>
+      <li>🇨🇭 Swiss Fabrics</li>
+      <li>🎨 Filtex</li>
+    </ul>
+    <p>All products available in wholesale and retail. Contact us for bulk orders.</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Bee Textiles.NG | Call us: 08148722534</p>
+  </footer>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Contact - Bee Textiles</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <div class="logo">
+      <img src="images/bt-logo-gold.png" alt="Bee Textiles Logo" />
+      <h1>Bee Textiles.NG</h1>
+    </div>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="products.html">Products</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="content">
+    <h2>Contact Us</h2>
+    <p>📞 Call or WhatsApp: <strong>08148722534</strong></p>
+    <form>
+      <label>Name:</label><br />
+      <input type="text" name="name" /><br />
+      <label>Message:</label><br />
+      <textarea name="message"></textarea><br />
+      <button type="submit">Send</button>
+    </form>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Bee Textiles.NG | Call us: 08148722534</p>
+  </footer>
+</body>
+</html>
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', sans-serif;
+}
+body {
+  background-color: #000;
+  color: gold;
+}
+header {
+  background-color: #111;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.logo img {
+  width: 50px;
+  margin-right: 10px;
+}
+.logo h1 {
+  display: inline;
+  font-size: 24px;
+  color: gold;
+}
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+nav a {
+  color: gold;
+  text-decoration: none;
+  font-weight: bold;
+}
+.hero {
+  text-align: center;
+  padding: 100px 20px;
+  background-color: #222;
+  color: gold;
+}
+.content {
+  padding: 50px 20px;
+}
+.content ul {
+  margin: 20px 0;
+  list-style-type: square;
+}
+form {
+  margin-top: 20px;
+}
+input, textarea {
+  width: 100%;
+  margin-top: 5px;
+  padding: 10px;
+  border: 1px solid gold;
+  background: #111;
+  color: gold;
+}
+button {
+  padding: 10px 20px;
+  background-color: gold;
+  color: black;
+  border: none;
+  margin-top: 10px;
+}
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #111;
+  margin-top: 50px;
+}
